@@ -14,13 +14,6 @@
       "encoded": "data/q_0002.enc.json",
       "count": 200,
       "updatedAt": "2026-08-06T18:13:00.676Z"
-    },
-    {
-      "index": 3,
-      "decoded": "data/q_0003.dec.json",
-      "encoded": "data/q_0003.enc.json",
-      "count": 73,
-      "updatedAt": "2026-08-06T18:16:53.729Z"
     }
   ],
   "totalQuestions": 473,
